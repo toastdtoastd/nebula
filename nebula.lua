@@ -463,7 +463,7 @@
                 -- Properties
                 name = properties.name or properties.Name or "nebula";
                 size = properties.size or properties.Size or dim2(0, 650, 0, 400);
-                logo = properties.logo or properties.Logo or "rbxassetid://106463595942385";
+                logo = properties.logo or properties.Logo or "rbxassetid://78903805619242";
 
                 selected_tab;
                 items = {};
