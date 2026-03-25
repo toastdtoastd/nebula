@@ -1283,7 +1283,7 @@
                         Parent = items[ "dropdown_outline" ];
                         Name = "\0";
                         AnchorPoint = vec2(1, 0.5);
-                        Image = "rbxassetid://110402599435730";
+                        Image = "rbxassetid://72212652011820";
                         BackgroundTransparency = 1;
                         Position = dim2(1, -4, 0.5, 0);
                         Size = dim2(0, 7, 0, 4);
