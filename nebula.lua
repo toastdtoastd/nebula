@@ -1290,9 +1290,6 @@
                         BorderSizePixel = 0;
                         BackgroundColor3 = rgb(255, 255, 255)
                     });
-
-		items["arrow"].BackgroundTransparency = 0
-        items["arrow"].BackgroundColor3 = Color3.new(1, 0, 0)
 		
                     library:create( "UIListLayout" , {
                         Parent = items[ "object" ];
