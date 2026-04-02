@@ -1567,7 +1567,7 @@
                         ImageColor3 = rgb(178, 178, 178);
                         BorderColor3 = rgb(0, 0, 0);
                         Parent = items[ "gear_holder" ];
-                        Image = "rbxassetid://99473719385675";
+                        Image = "rbxassetid://113653842709149";
                         BackgroundTransparency = 1;
                         Name = "\0";
                         Size = dim2(0, 12, 0, 12);
@@ -1859,7 +1859,7 @@
                         BorderColor3 = rgb(0, 0, 0);
                         Parent = items[ "colorpicker_inline" ];
                         Name = "\0";
-                        Image = "rbxassetid://99473719385675";
+                        Image = "rbxassetid://113653842709149";
                         BackgroundTransparency = 1;
                         Position = dim2(0, 4, 0, 3);
                         
